@@ -1,3 +1,3 @@
 # OpenPoly-Breakout
 
-Small School project built on python.
+Small School project built on java.
